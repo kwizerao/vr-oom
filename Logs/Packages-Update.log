@@ -1,0 +1,8 @@
+
+=== Tue Oct 29 08:56:33 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.render-pipelines.universal from version 14.0.8 to 14.0.10
